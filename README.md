@@ -1,2 +1,2 @@
-# bbs
-个人bbs，娱乐而已
+# BBS
+A Big Heart for Life.
